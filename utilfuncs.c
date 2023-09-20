@@ -43,7 +43,7 @@ void print_error(char *sh_name, char *command, int index)
  * my_env - custon env command print env
 */
 
-void my_env()
+void my_env(void)
 {
 	int i = 0;
 
